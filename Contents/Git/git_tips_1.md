@@ -1,9 +1,9 @@
  **关键词**
     
-stage: 暂存区
-unstage: 工作区
-branch： 分支 ()
-HEAD:
+stage: 暂存区  
+unstage: 工作区  
+branch： 分支 ()  
+HEAD:  
 
  **回退 (各种情况的)**
 1. 未commit之前:
